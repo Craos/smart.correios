@@ -11,7 +11,7 @@ dhtmlxEvent(window, 'load', function () {
             id: '$2a$06$AFSMmoY2qaCqvZkT8esZGuqcXK3uFHPOtUiQJPq7ZpnYgPomRBaba',
             name: 'smart.correios',
             title: 'Smart Correios',
-            redirect: '../smart.correios.new',
+            redirect: '../smart.correios',
             typeuser: 'internal',
             version: '5'
         });
