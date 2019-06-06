@@ -1,0 +1,1624 @@
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17686;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17688;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17689;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17690;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17691;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17692;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 5987;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17693;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17693;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17695;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17695;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17696;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17696;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17697;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17697;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17698;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17699;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17700;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17700;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17701;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17702;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17703;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17703;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17704;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17704;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17705;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17706;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17706;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17707;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17708;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17709;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17709;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17710;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17711;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17712;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17712;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17713;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17714;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17714;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17714;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17715;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17716;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17717;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17717;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17718;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17718;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17719;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17719;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17721;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17722;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17723;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17723;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17724;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17724;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17724;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17725;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17726;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17727;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17727;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17728;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17729;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17730;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17731;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17732;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17732;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17733;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17734;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17735;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17735;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17736;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17736;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17737;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17737;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17738;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17739;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17740;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17741;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17741;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17742;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17743;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17744;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17745;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17746;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17746;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17748;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17749;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17751;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17752;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17753;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17754;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17755;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17756;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17757;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17758;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17758;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17759;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17759;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17760;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17760;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17761;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17762;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17762;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17763;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17764;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17764;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17765;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17766;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17767;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17768;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17768;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17769;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17770;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17771;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17772;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17773;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17774;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17775;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17775;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17776;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17778;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17778;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17779;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17779;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17780;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17781;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17781;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17781;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17782;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17782;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17783;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17784;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17784;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17785;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17785;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17786;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17787;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17787;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17788;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17789;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17790;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17791;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17792;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17793;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17793;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17794;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17795;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17795;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17796;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17797;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17797;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17798;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17798;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17799;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17799;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17800;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17800;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17801;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17802;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17802;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17803;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17803;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17804;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17805;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17806;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17806;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17807;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17808;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17809;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17810;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17811;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17811;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17812;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17813;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17813;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17814;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17814;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17815;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17815;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17816;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17817;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17817;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17818;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17818;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17819;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 17820;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17821;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 17821;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17822;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 17822;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17823;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 17823;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 17824;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17825;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17825;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17826;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17827;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 17827;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 17828;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17829;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 17829;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 17829;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17830;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 17831;

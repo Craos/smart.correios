@@ -1,0 +1,3516 @@
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18518;
+Erro de processamento. id:18518
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18518;
+Erro de processamento. id:18518
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18483;
+Erro de processamento. id:18483
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18485;
+Erro de processamento. id:18485
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18485;
+Erro de processamento. id:18485
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18439;
+Erro de processamento. id:18439
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18394;
+Erro de processamento. id:18394
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18417;
+Erro de processamento. id:18417
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18496;
+Erro de processamento. id:18496
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18373;
+Erro de processamento. id:18373
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18395;
+Erro de processamento. id:18395
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18497;
+Erro de processamento. id:18497
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18497;
+Erro de processamento. id:18497
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18418;
+Erro de processamento. id:18418
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18418;
+Erro de processamento. id:18418
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18441;
+Erro de processamento. id:18441
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18500;
+Erro de processamento. id:18500
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18421;
+Erro de processamento. id:18421
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18445;
+Erro de processamento. id:18445
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18468;
+Erro de processamento. id:18468
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18491;
+Erro de processamento. id:18491
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18491;
+Erro de processamento. id:18491
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18501;
+Erro de processamento. id:18501
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18501;
+Erro de processamento. id:18501
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18423;
+Erro de processamento. id:18423
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18492;
+Erro de processamento. id:18492
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18492;
+Erro de processamento. id:18492
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18424;
+Erro de processamento. id:18424
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18447;
+Erro de processamento. id:18447
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18504;
+Erro de processamento. id:18504
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18504;
+Erro de processamento. id:18504
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18505;
+Erro de processamento. id:18505
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18426;
+Erro de processamento. id:18426
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18472;
+Erro de processamento. id:18472
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18472;
+Erro de processamento. id:18472
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18506;
+Erro de processamento. id:18506
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18506;
+Erro de processamento. id:18506
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18427;
+Erro de processamento. id:18427
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18427;
+Erro de processamento. id:18427
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18450;
+Erro de processamento. id:18450
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18405;
+Erro de processamento. id:18405
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18384;
+Erro de processamento. id:18384
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18507;
+Erro de processamento. id:18507
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18508;
+Erro de processamento. id:18508
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18475;
+Erro de processamento. id:18475
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18475;
+Erro de processamento. id:18475
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18407;
+Erro de processamento. id:18407
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18509;
+Erro de processamento. id:18509
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18386;
+Erro de processamento. id:18386
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18510;
+Erro de processamento. id:18510
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18511;
+Erro de processamento. id:18511
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18512;
+Erro de processamento. id:18512
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18512;
+Erro de processamento. id:18512
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18513;
+Erro de processamento. id:18513
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18390;
+Erro de processamento. id:18390
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18390;
+Erro de processamento. id:18390
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18390;
+Erro de processamento. id:18390
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18434;
+Erro de processamento. id:18434
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18480;
+Erro de processamento. id:18480
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18514;
+Erro de processamento. id:18514
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18435;
+Erro de processamento. id:18435
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18481;
+Erro de processamento. id:18481
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18515;
+Erro de processamento. id:18515
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18521;
+Erro de processamento. id:18521
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18522;
+Erro de processamento. id:18522
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18523;
+Erro de processamento. id:18523
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18521;
+Erro de processamento. id:18521
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18522;
+Erro de processamento. id:18522
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18523;
+Erro de processamento. id:18523
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18521;
+Erro de processamento. id:18521
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18518;
+Erro de processamento. id:18518
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18483;
+Erro de processamento. id:18483
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18521;
+Erro de processamento. id:18521
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18522;
+Erro de processamento. id:18522
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18485;
+Erro de processamento. id:18485
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18485;
+Erro de processamento. id:18485
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18439;
+Erro de processamento. id:18439
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18523;
+Erro de processamento. id:18523
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18394;
+Erro de processamento. id:18394
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18417;
+Erro de processamento. id:18417
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 14,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18496;
+Erro de processamento. id:18496
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 15,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18373;
+Erro de processamento. id:18373
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18266;
+Erro de processamento. id:18266
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18395;
+Erro de processamento. id:18395
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18497;
+Erro de processamento. id:18497
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 12,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18497;
+Erro de processamento. id:18497
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18418;
+Erro de processamento. id:18418
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 13,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18418;
+Erro de processamento. id:18418
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18441;
+Erro de processamento. id:18441
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 11,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18337;
+Erro de processamento. id:18337
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 16,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18518;
+Erro de processamento. id:18518
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18483;
+Erro de processamento. id:18483
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18483;
+Erro de processamento. id:18483
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 17,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18483;
+Erro de processamento. id:18483
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18483;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18521;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18518;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18522;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18485;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18485;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18439;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18523;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18394;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18417;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18496;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18373;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18266;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18395;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18497;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18497;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18418;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18418;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18441;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18337;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 4,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 4,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18500;
+Erro de processamento. id:18500
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 6,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18421;
+Erro de processamento. id:18421
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18445;
+Erro de processamento. id:18445
+Conexão SMTP() falhou.
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18468;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18491;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18491;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18501;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 18,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18501;
+Erro de processamento. id:18501
+Conexão SMTP() falhou.
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18423;
+Correspondente:correiosanimavirtus@gmail.com
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18492;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18492;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18524;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18273;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18524;
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18424;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 4,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18447;
+Erro de processamento. id:18447
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18504;
+Erro de processamento. id:18504
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 6,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18504;
+Erro de processamento. id:18504
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18505;
+Erro de processamento. id:18505
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18426;
+Erro de processamento. id:18426
+Conexão SMTP() falhou.
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18472;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18472;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18506;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18506;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18427;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 18,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18427;
+Erro de processamento. id:18427
+Conexão SMTP() falhou.
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18450;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18405;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18384;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18507;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 4,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18508;
+Erro de processamento. id:18508
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18475;
+Erro de processamento. id:18475
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 6,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18475;
+Erro de processamento. id:18475
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18407;
+Erro de processamento. id:18407
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18509;
+Erro de processamento. id:18509
+Conexão SMTP() falhou.
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18386;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18510;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18511;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18512;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18512;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18513;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18390;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18390;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18390;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18434;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18480;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18514;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18435;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18481;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18515;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18222;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18420;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18500;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18421;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 6,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18445;
+Erro de processamento. id:18445
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18501;
+Erro de processamento. id:18501
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 18,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18501;
+Erro de processamento. id:18501
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18447;
+Erro de processamento. id:18447
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 4,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18504;
+Erro de processamento. id:18504
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 6,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18504;
+Erro de processamento. id:18504
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 4,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18505;
+Erro de processamento. id:18505
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18426;
+Erro de processamento. id:18426
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18427;
+Erro de processamento. id:18427
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 18,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18427;
+Erro de processamento. id:18427
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18508;
+Erro de processamento. id:18508
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 4,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18475;
+Erro de processamento. id:18475
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 6,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18475;
+Erro de processamento. id:18475
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 4,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18407;
+Erro de processamento. id:18407
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18509;
+Erro de processamento. id:18509
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 5,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18420;
+Erro de processamento. id:18420
+Conexão SMTP() falhou.
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18525;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18525;
+Erro de processamento. id:18525
+Conexão SMTP() falhou.
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18525;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18525;
+Erro de processamento. id:18525
+Conexão SMTP() falhou.
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18525;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 7,
+            observacoes = 'Conexão SMTP() falhou.'
+     WHERE id = 18525;
+Erro de processamento. id:18525
+Conexão SMTP() falhou.
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18526;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18526;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18527;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18525;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18525;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18420;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18420;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18445;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18501;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 18,
+            observacoes = ''
+     WHERE id = 18501;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18447;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18504;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18504;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18505;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18426;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18427;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 18,
+            observacoes = ''
+     WHERE id = 18427;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18508;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18475;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18475;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18407;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18509;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18528;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18529;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18529;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18530;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18531;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 18,
+            observacoes = ''
+     WHERE id = 18532;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18533;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18534;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18534;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18535;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18536;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18537;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18537;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18538;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18539;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18540;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18541;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18542;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18543;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18543;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18544;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18545;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18546;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18547;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18548;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 18,
+            observacoes = ''
+     WHERE id = 18548;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18549;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18550;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18550;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18551;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18552;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18552;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18553;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18553;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18554;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18555;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18556;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18557;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18558;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18559;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 19,
+            observacoes = ''
+     WHERE id = 18559;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18560;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18560;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18561;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18562;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18563;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18564;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18564;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18565;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18566;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18567;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18567;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18568;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18569;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18570;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18570;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18571;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18572;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18572;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18572;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18573;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18573;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18574;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18575;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18575;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18576;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18576;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18577;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18577;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18578;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18578;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18579;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18580;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18581;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18581;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18582;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18583;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18584;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 18,
+            observacoes = ''
+     WHERE id = 18585;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18586;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18586;
+Erro de processamento. id:18586
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18587;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18588;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18589;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18590;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18591;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18592;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18593;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18595;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18596;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18597;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18598;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18599;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18600;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18601;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18602;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 18,
+            observacoes = ''
+     WHERE id = 18603;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18604;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18604;
+Erro de processamento. id:18604
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18605;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18606;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18607;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18608;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18609;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18610;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18610;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18611;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18611;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18612;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18604;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18604;
+Erro de processamento. id:18604
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18586;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18586;
+Erro de processamento. id:18586
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18604;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18604;
+Erro de processamento. id:18604
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18604;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18604;
+Erro de processamento. id:18604
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18604;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18604;
+Erro de processamento. id:18604
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18613;
+Erro de processamento. id:18613
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18613;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18614;
+Erro de processamento. id:18614
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18614;
+Erro de processamento. id:18614
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18614;
+Erro de processamento. id:18614
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18614;
+Erro de processamento. id:18614
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18614;
+Erro de processamento. id:18614
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18614;
+Erro de processamento. id:18614
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18615;
+Erro de processamento. id:18615
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18615;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18616;
+Erro de processamento. id:18616
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18617;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18618;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18618;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18619;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18619;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18620;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 18,
+            observacoes = ''
+     WHERE id = 18621;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18622;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18623;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18624;
+Erro de processamento. id:18624
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18625;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18625;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18626;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18626;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18627;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18628;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18629;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18629;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18630;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18631;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18632;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18633;
+Correspondente:correiosanimaaviso@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 8,
+            observacoes = ''
+     WHERE id = 18633;
+Correspondente:correiosanimaclube118@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 7,
+            observacoes = ''
+     WHERE id = 18634;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18635;
+Correspondente:correiosanimasystem@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 10,
+            observacoes = ''
+     WHERE id = 18635;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18636;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18637;
+Correspondente:correiosanimainformativo@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 9,
+            observacoes = ''
+     WHERE id = 18638;
+Correspondente:correiosanimamaster@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 11,
+            observacoes = ''
+     WHERE id = 18639;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18640;
+Correspondente:correiosanimanotificacao@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 15,
+            observacoes = ''
+     WHERE id = 18640;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18641;
+Correspondente:correiosanimaclube10@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 18,
+            observacoes = ''
+     WHERE id = 18641;
+Correspondente:correiosanimachallenger@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 13,
+            observacoes = ''
+     WHERE id = 18642;
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18643;
+Correspondente:correiosanima@outlook.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Erro de processamento', 
+            correnspondente = 19,
+            observacoes = 'Erro de SMTP: dados não aceitos.'
+     WHERE id = 18643;
+Erro de processamento. id:18643
+Erro de SMTP: dados não aceitos.
+Correspondente:correiosanimaslave@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 14,
+            observacoes = ''
+     WHERE id = 18644;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18645;
+Correspondente:correiosanimaclube1@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 17,
+            observacoes = ''
+     WHERE id = 18646;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18647;
+Correspondente:correiosanimanotificacoes@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 12,
+            observacoes = ''
+     WHERE id = 18648;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18649;
+Correspondente:correiosanimaclube@yahoo.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 16,
+            observacoes = ''
+     WHERE id = 18649;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18650;
+Correspondente:correiosanimavirtus@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 1,
+            observacoes = ''
+     WHERE id = 18651;
+Correspondente:correiosanimanotificacoes@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 2,
+            observacoes = ''
+     WHERE id = 18652;
+Correspondente:correiosanimaservicos@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 3,
+            observacoes = ''
+     WHERE id = 18653;
+Correspondente:correiosanimaclube120@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 4,
+            observacoes = ''
+     WHERE id = 18654;
+Correspondente:correiosanimaclube113@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 5,
+            observacoes = ''
+     WHERE id = 18655;
+Correspondente:correiosanimaclube117@gmail.com
+    UPDATE notificacoes.entrada
+       SET 
+            enviado = current_timestamp, 
+            processamento = 'Notificado', 
+            correnspondente = 6,
+            observacoes = ''
+     WHERE id = 18655;
