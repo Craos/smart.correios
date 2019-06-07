@@ -155,7 +155,7 @@ function ProcessaInformacoes(Registros $registros, Array $remetentes, $modelo)
         Response(array(
             'status' => 'processando',
             'processoid' =>$identificacao,
-            'processamento' => $processamento = Array(
+            'processamento' => Array(
                 'bloco' => $paraenviar->bloco,
                 'unidade' => $paraenviar->unidade,
                 'data' => $paraenviar->data,
@@ -177,9 +177,12 @@ function ProcessaInformacoes(Registros $registros, Array $remetentes, $modelo)
 
     }
 
+    Response(array(
+        'status' => 'finalizado',
+        'registros' =>$identificacao,
 
+    ), 200);
     ob_end_flush();
-    http_response_code(200);
     exit(0);
 
 

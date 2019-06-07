@@ -2,7 +2,7 @@
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
-    <title>Smart Auth</title>
+    <title>Smart Correios</title>
 
     <meta name="description" content="Verticals">
     <meta name="author" content="Oberdan Brito">
@@ -14,7 +14,7 @@
     <script type="text/javascript" src="../smt/lib/jquery/jquery-3.4.1.js"></script>
     <script type="text/javascript" src="js/operacoes.js?<?php echo time(); ?>"></script>
     <script type="text/javascript" src="js/screencast.js?<?php echo time(); ?>"></script>
-    <script type="text/javascript" src="js/notificacao.js?<?php echo time(); ?>"></script>
+    <script type="text/javascript" src="js/processanotificacao.js?<?php echo time(); ?>"></script>
     <script type="text/javascript" src="js/autorizacao.js?<?php echo time(); ?>"></script>
     <script type="text/javascript" src="js/unidade.js?<?php echo time(); ?>"></script>
     <script type="text/javascript" src="js/historico.js?<?php echo time(); ?>"></script>

@@ -1,4 +1,4 @@
-let Notificacao = function (lista) {
+let Processanotificacao = function (lista) {
 
     let that = this, list, winAt;
 
@@ -59,13 +59,30 @@ let Notificacao = function (lista) {
                 try {
 
                     if (new_response.length > 0) {
+
                         result = JSON.parse(new_response);
-                        if (result.processamento !== undefined)
-                            list.add(result.processamento, 0);
+
+                        if (result.processamento !== undefined) {
+                            if (result.status === 'processando') {
+                                list.add(result.processamento, 0);
+                            } else if (result.status === 'finalizado') {
+
+                                winAt.window('progresso').close();
+                                callback();
+                                return;
+
+                            }
+                        }
+
                     }
                 }
                 catch(e) {
                     console.exception(e);
+
+                    if (xhr.status === 200) {
+                        winAt.window('progresso').close();
+                        callback();
+                    }
                 }
 
                 xhr.previus_text = xhr.responseText;
