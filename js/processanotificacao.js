@@ -26,7 +26,6 @@ let Processanotificacao = function (lista) {
             }
         });
 
-
         let xhr = new XMLHttpRequest();
 
         xhr.open('POST', './ws/mail_send.php', true);
@@ -37,7 +36,16 @@ let Processanotificacao = function (lista) {
         xhr.setRequestHeader('expires', 'Tue, 01 Jan 1980 1:00:00 GMT');
         xhr.setRequestHeader('pragma', 'no-cache');
         xhr.timeout = 2880000;
-        xhr.previus_text = '';
+        xhr.responsePrev = '';
+
+        xhr.onloadend = function() {
+
+            if (list.dataCount() === 0) {
+                winAt.window('progresso').close();
+            }
+            callback();
+
+        };
 
         xhr.onreadystatechange = function() {
 
@@ -53,7 +61,7 @@ let Processanotificacao = function (lista) {
 
             } else if (xhr.readyState > 2) {
 
-                let new_response = xhr.responseText.substring(xhr.previus_text.length);
+                let new_response = xhr.responseText.substring(xhr.responsePrev.length);
 
                 let result;
                 try {
@@ -64,12 +72,31 @@ let Processanotificacao = function (lista) {
 
                         if (result.processamento !== undefined) {
                             if (result.status === 'processando') {
-                                list.add(result.processamento, 0);
-                            } else if (result.status === 'finalizado') {
 
-                                winAt.window('progresso').close();
-                                callback();
-                                return;
+                                let log = '';
+
+                                result.processamento.logtentativas.filter(function (item) {
+                                    log += item;
+                                });
+
+
+                                if (result.situacao !== 'Notificado') {
+                                    let processamento = {
+                                        bloco:result.processamento.bloco,
+                                        unidade:result.processamento.unidade,
+                                        data:result.processamento.data,
+                                        rastreio:result.processamento.rastreio,
+                                        id:result.processamento.id,
+                                        codigo:result.processamento.codigo,
+                                        log:log,
+                                        destinatarios:result.processamento.destinatarios,
+                                        situacao:result.processamento.situacao,
+                                        valorsituacao:result.processamento.valorsituacao,
+                                        classsituacao:result.processamento.classsituacao
+                                    };
+                                    list.add(processamento, 0);
+                                }
+
 
                             }
                         }
@@ -77,6 +104,7 @@ let Processanotificacao = function (lista) {
                     }
                 }
                 catch(e) {
+
                     console.exception(e);
 
                     if (xhr.status === 200) {
@@ -85,7 +113,7 @@ let Processanotificacao = function (lista) {
                     }
                 }
 
-                xhr.previus_text = xhr.responseText;
+                xhr.responsePrev = xhr.responseText;
 
             }
         };
