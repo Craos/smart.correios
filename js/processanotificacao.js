@@ -1,7 +1,5 @@
 let Processanotificacao = function (lista) {
 
-    let list;
-
     this.Iniciar = function (callback) {
 
         /*winAt = new dhtmlXWindows({
@@ -40,9 +38,9 @@ let Processanotificacao = function (lista) {
 
         xhr.onloadend = function() {
 
-            if (list.dataCount() === 0) {
-               // winAt.window('progresso').close();
-            }
+            /*if (list.dataCount() === 0) {
+               winAt.window('progresso').close();
+            }*/
             callback();
 
         };
