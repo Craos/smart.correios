@@ -7,7 +7,7 @@
  */
 
 /* PostgreSQL */
-define('PGSERVER', "host=127.0.0.1 port=5432 dbname=smt user=smart_supervisor password=yu45thn@");
+define('PGSERVER', "host=192.168.0.180 port=5432 dbname=smt user=smart_supervisor password=yu45thn@");
 
 /* PHPMailer */
 define('SMTPDEBUG', 0);

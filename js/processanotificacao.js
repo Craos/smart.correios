@@ -1,10 +1,10 @@
 let Processanotificacao = function (lista) {
 
-    let that = this, list, winAt;
+    let list;
 
     this.Iniciar = function (callback) {
 
-        winAt = new dhtmlXWindows({
+        /*winAt = new dhtmlXWindows({
             image_path: "codebase/imgs/"
         });
 
@@ -24,7 +24,7 @@ let Processanotificacao = function (lista) {
                 template:"http->./html/logenvio.html",
                 height:"auto"
             }
-        });
+        });*/
 
         let xhr = new XMLHttpRequest();
 
@@ -41,7 +41,7 @@ let Processanotificacao = function (lista) {
         xhr.onloadend = function() {
 
             if (list.dataCount() === 0) {
-                winAt.window('progresso').close();
+               // winAt.window('progresso').close();
             }
             callback();
 
@@ -94,7 +94,17 @@ let Processanotificacao = function (lista) {
                                         valorsituacao:result.processamento.valorsituacao,
                                         classsituacao:result.processamento.classsituacao
                                     };
-                                    list.add(processamento, 0);
+
+                                    let str = "Unidade: #bloco#-#unidade# Situação: #situacao# ";
+                                    let text = window.dhx.template(str, processamento);
+
+                                    dhtmlx.message({
+                                        text: text,
+                                        expire:1000,
+                                        type:"customCss" // 'customCss' - css class
+                                    });
+
+                                    //list.add(processamento, 0);
                                 }
 
 
@@ -108,7 +118,7 @@ let Processanotificacao = function (lista) {
                     console.exception(e);
 
                     if (xhr.status === 200) {
-                        winAt.window('progresso').close();
+                        //winAt.window('progresso').close();
                         callback();
                     }
                 }
