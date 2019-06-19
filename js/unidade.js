@@ -18,7 +18,7 @@ var Unidade = function () {
      */
     this.Exibir = function (info) {
 
-        cell.detachObject();
+        //cell.detachObject();
         cell.progressOn();
 
         list = cell.attachList({

@@ -28,7 +28,7 @@ var Historico = function (container) {
      */
     this.Exibir = function (info) {
 
-        cell.detachObject();
+        //cell.detachObject();
         cell.progressOn();
         that.Listar(info, function (info) {
             that.MontaGrid(info);
@@ -43,7 +43,7 @@ var Historico = function (container) {
      */
     this.BuscarItens = function (registros) {
 
-        cell.detachObject();
+        //cell.detachObject();
         cell.progressOn();
         webservice.Request({
             c: 7,

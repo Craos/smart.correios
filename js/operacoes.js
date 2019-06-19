@@ -26,7 +26,7 @@ let Operacoes = function (container) {
         height: 35
     });
 
-    let toolbar = cell.attachToolbar({
+    let toolbar = container.attachToolbar({
         icon_path: 'img/comandos/'
     });
 
@@ -121,7 +121,8 @@ let Operacoes = function (container) {
             type: 'alert',
             text: 'Autorização efetuada com sucesso'
         });
-        new Historico(container).BuscarItens(info.detail.registros);
+        cell.progressOff();
+        new Historico(cell).BuscarItens(info.detail.registros);
     });
 
     /**
@@ -130,7 +131,11 @@ let Operacoes = function (container) {
      */
     this.MontaGrid = function () {
 
-        cell.detachObject();
+        if (cell._idd === null)
+            cell = layout.cells('a');
+
+        console.debug(cell);
+        //cell.detachObject();
         grid = cell.attachGrid();
         grid.setImagePath('img/');
         grid.enableHeaderImages(false);
