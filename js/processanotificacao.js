@@ -2,28 +2,6 @@ let Processanotificacao = function (lista) {
 
     this.Iniciar = function (callback) {
 
-        /*winAt = new dhtmlXWindows({
-            image_path: "codebase/imgs/"
-        });
-
-        winAt.createWindow({
-            id: "progresso",
-            width: 900,
-            height: 600,
-            center: true
-        });
-
-        winAt.window('progresso').setText('Enviando as notificações');
-
-
-        list = winAt.window('progresso').attachList({
-            container:"data_container",
-            type:{
-                template:"http->./html/logenvio.html",
-                height:"auto"
-            }
-        });*/
-
         let xhr = new XMLHttpRequest();
 
         xhr.open('POST', './ws/mail_send.php', true);
@@ -37,12 +15,7 @@ let Processanotificacao = function (lista) {
         xhr.responsePrev = '';
 
         xhr.onloadend = function() {
-
-            /*if (list.dataCount() === 0) {
-               winAt.window('progresso').close();
-            }*/
             callback();
-
         };
 
         xhr.onreadystatechange = function() {
@@ -85,7 +58,7 @@ let Processanotificacao = function (lista) {
                                         data:result.processamento.data,
                                         rastreio:result.processamento.rastreio,
                                         id:result.processamento.id,
-                                        codigo:result.processamento.codigo,
+                                        codigo: parseInt(result.processamento.codigo),
                                         log:log,
                                         destinatarios:result.processamento.destinatarios,
                                         situacao:result.processamento.situacao,
@@ -101,11 +74,7 @@ let Processanotificacao = function (lista) {
                                         expire:1000,
                                         type:"customCss" // 'customCss' - css class
                                     });
-
-                                    //list.add(processamento, 0);
                                 }
-
-
                             }
                         }
 
@@ -116,7 +85,6 @@ let Processanotificacao = function (lista) {
                     console.exception(e);
 
                     if (xhr.status === 200) {
-                        //winAt.window('progresso').close();
                         callback();
                     }
                 }

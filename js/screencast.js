@@ -320,7 +320,6 @@ ScreenCastWebkit = function () {
         }
         if (window.performance) {
             var now = (window.performance.now() / 1000).toFixed(3);
-            console.debug(now + ': ' + text);
         } else {
             console.debug(text);
         }

@@ -134,8 +134,6 @@ let Operacoes = function (container) {
         if (cell._idd === null)
             cell = layout.cells('a');
 
-        console.debug(cell);
-        //cell.detachObject();
         grid = cell.attachGrid();
         grid.setImagePath('img/');
         grid.enableHeaderImages(false);
@@ -176,7 +174,9 @@ let Operacoes = function (container) {
             return;
         }
 
+        cell.progressOn();
         new Processanotificacao(grid.getSelectedRowId()).Iniciar(function () {
+            cell.progressOff();
            that.AtualizaGrid();
         });
 
