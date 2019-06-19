@@ -61,7 +61,8 @@ class Envio extends PHPMailer
     public function PreparaRecipientes() {
 
         foreach ($this->Destinatario as $endereco) {
-            $this->addBCC($endereco);
+            if ($endereco !== 'nao tem email')
+                $this->addBCC($endereco);
         }
 
     }

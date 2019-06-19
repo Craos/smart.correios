@@ -131,9 +131,6 @@ let Operacoes = function (container) {
      */
     this.MontaGrid = function () {
 
-        if (cell._idd === null)
-            cell = layout.cells('a');
-
         grid = cell.attachGrid();
         grid.setImagePath('img/');
         grid.enableHeaderImages(false);

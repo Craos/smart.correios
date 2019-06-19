@@ -19,9 +19,9 @@ function isValidJSON($str)
     return json_last_error() == JSON_ERROR_NONE;
 }
 
-ini_set('display_errors', 'off');
+ini_set('display_errors', 'on');
 ini_set('log_errors', 1);
-ini_set('error_log', 'var/log/error.log');
+ini_set('error_log', 'log/error.log');
 date_default_timezone_set('America/Sao_Paulo');
 set_time_limit(0);
 
