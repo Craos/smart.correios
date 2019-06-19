@@ -233,7 +233,7 @@ function VisualizarFoto(foto) {
     var fotocadastro = form.getContainer("displayfoto");
     fotocadastro.innerHTML = '';
 
-    if (fotocadastro !== null && foto !== null) {
+    if (foto !== null) {
         if (foto.length > 0) {
             fotocadastro.innerHTML = '<img id="fotodwd" style="width: 500px;" alt="" src="' + foto + '">';
         }
