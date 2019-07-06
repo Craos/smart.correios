@@ -45,10 +45,10 @@ class Envio extends PHPMailer
         $this->SMTPSecure = $this->Remetente['smtp_secure'];
         $this->Port = $this->Remetente['smtp_port'];
         $this->SMTPAuth = $this->Remetente['smtp_auth'];
-        $this->Username = $this->Remetente['endereco'];
+        $this->Username = $this->Remetente['username'];
         $this->Password = $this->Remetente['senha'];
         $this->From = $this->Remetente['endereco'];
-        $this->FromName = $this->Remetente['nome'];
+        $this->FromName = 'ˆCondomínio Ânima Clube';
         $this->setLanguage('br');
         $this->addReplyTo($this->Remetente['endereco']);
         $this->isHTML(SMTPISHTML);
