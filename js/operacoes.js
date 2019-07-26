@@ -280,25 +280,14 @@ let Operacoes = function (container) {
      */
     this.AutorizarRFID = function () {
 
-        if (gridcorrente.grid.getSelectedRowId() === null) {
-            dhtmlx.alert({
-                title: 'Atenção',
-                type: 'alert-error',
-                text: 'Você deve selecionar os registros antes da identificação do usuário'
-            });
+        let result = that.ValidaSelecionados();
+        if (result === undefined)
             return;
-        }
 
         statusbar.setText('Aguardando a passagem do dispositivo de identificação');
-        var rIds = gridcorrente.grid.getSelectedRowId().split(',');
 
-        new Autorizacao({
-            bloco: gridcorrente.grid.cells(rIds[0], 2).getValue(),
-            unidade: gridcorrente.grid.cells(rIds[0], 3).getValue(),
-            registros: gridcorrente.grid.getSelectedRowId(),
-            origem: gridcorrente.origem
-        }).AguardarConfirmacaoRFID();
-
+        result.origem = gridcorrente.origem;
+        new Autorizacao(result).AguardarConfirmacaoRFID();
     };
 
     /**
@@ -306,6 +295,22 @@ let Operacoes = function (container) {
      * @constructor
      */
     this.AutorizarFoto = function () {
+
+        let result = that.ValidaSelecionados();
+        if (result === undefined)
+            return;
+
+        cell.progressOn();
+        new Autorizacao(result).AguardarConfirmacaoFoto();
+
+    };
+
+    /**
+     * Verifica se o usuário selecionou alguma unidade diferente em relação ao responsável que efetuará a retirada
+     * da encomenda. se estiver ok retorna a lista de id
+     * @constructor
+     */
+    this.ValidaSelecionados = function () {
 
         if (grid.getSelectedRowId() === null) {
             dhtmlx.alert({
@@ -316,14 +321,39 @@ let Operacoes = function (container) {
             return;
         }
 
-        cell.progressOn();
-        var rIds = grid.getSelectedRowId().split(',');
+        const unique = (value, index, self) => {
+          return self.indexOf(value) === index;
+        };
 
-        new Autorizacao({
-            bloco: grid.cells(rIds[0], 2).getValue(),
-            unidade: grid.cells(rIds[0], 3).getValue(),
-            registros: grid.getSelectedRowId()
-        }).AguardarConfirmacaoFoto();
+        let registros = grid.getSelectedRowId();
+        let rIds = registros.split(',');
+
+        let blocos = [];
+        let unidades = [];
+
+        rIds.filter(function (item) {
+            blocos.push(grid.cells(item, 3).getValue());
+            unidades.push(grid.cells(item, 3).getValue());
+        });
+
+        let bloco = blocos.filter(unique);
+        let unidade = unidades.filter(unique);
+
+        if (bloco.length > 1 || unidade.length > 1) {
+            dhtmlx.alert({
+                title: 'Atenção',
+                type: 'alert-error',
+                text: 'Somente uma unidade pode ser autorizada por vez'
+            });
+            return;
+        }
+
+	
+        return {
+            registros: registros,
+            bloco: bloco[0],
+            unidade: unidade[0]
+        };
 
     };
 

@@ -1,6 +1,6 @@
-var Historico = function (container) {
+let Historico = function (container) {
 
-    var that = this;
+    let that = this;
 
     let layout = container.attachLayout({
         pattern: '1C',
@@ -62,8 +62,8 @@ var Historico = function (container) {
                 return;
             }
 
-            var listaresultado = JSON.parse(http.response);
-            var response = [];
+            let listaresultado = JSON.parse(http.response);
+            let response = [];
             listaresultado.filter(function (item) {
                 response.push(JSON.parse(item.query));
             });
@@ -82,7 +82,7 @@ var Historico = function (container) {
      */
     this.Listar = function (info, callback) {
 
-        var params = JSON.stringify({
+        let params = JSON.stringify({
             command: 'select',
             fields: '*',
             from: 'notificacoes.historico_list',
@@ -101,8 +101,8 @@ var Historico = function (container) {
                 return;
             }
 
-            var listaresultado = JSON.parse(http.response);
-            var response = [];
+            let listaresultado = JSON.parse(http.response);
+            let response = [];
             listaresultado.filter(function (item) {
                 response.push(JSON.parse(item.query));
             });
@@ -127,7 +127,7 @@ var Historico = function (container) {
             return;
         }
 
-        var grid = cell.attachGrid();
+        let grid = cell.attachGrid();
         grid.setImagePath('img/');
         grid.enableHeaderImages(false);
         grid.setHeader("Entrada,Cadastrado por, Bloco, Unidade, Destinatário, Código de Rastreio, Modelo da notificação, Data notificação, Data da entrega, Autorizado por, Responsável saída");
@@ -206,7 +206,7 @@ function fotorfid(serial) {
             return;
         }
 
-        var morador = JSON.parse(http.response);
+        let morador = JSON.parse(http.response);
         VisualizarFoto(JSON.parse(morador[0].query).foto);
     });
 }
@@ -217,25 +217,14 @@ function fotorfid(serial) {
  * @constructor
  */
 function VisualizarFoto(foto) {
-    var win = new dhtmlXWindows();
-    var winfoto = win.createWindow('obterfoto', 0, 0, 510, 445);
+    let win = new dhtmlXWindows();
+    let winfoto = win.createWindow('obterfoto', 0, 0, 510, 445);
 
     winfoto.setText('Visualizar foto');
     winfoto.denyResize();
     winfoto.centerOnScreen();
     winfoto.button('park').hide();
     winfoto.button('minmax1').hide();
-
-    var form = winfoto.attachForm([
-        {type: "container", name: "displayfoto", inputWidth: 500, inputHeight: 377}
-    ]);
-
-    var fotocadastro = form.getContainer("displayfoto");
-    fotocadastro.innerHTML = '';
-
-    if (foto !== null) {
-        if (foto.length > 0) {
-            fotocadastro.innerHTML = '<img id="fotodwd" style="width: 500px;" alt="" src="' + foto + '">';
-        }
-    }
+    winfoto.attachHTMLString('<img id="fotodwd" style="width: 500px;" alt="" src="' + foto + '">');
+    
 }

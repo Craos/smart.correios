@@ -18,7 +18,7 @@ var Autorizacao = function (paraautorizacao) {
             image_path: "codebase/imgs/"
         });
 
-        var winat = "winautorizar";
+        let winat = "winautorizar";
 
         winAt.createWindow({
             id: winat,
@@ -50,7 +50,7 @@ var Autorizacao = function (paraautorizacao) {
             webservice.Request({
                 c: 7,
                 cn: 'as',
-                process: 'smt.notificacoes.iniciar_autorizacao',
+                process: 'notificacoes.iniciar_autorizacao',
                 params: JSON.stringify({})
             }, function (http) {
 
@@ -69,7 +69,7 @@ var Autorizacao = function (paraautorizacao) {
         webservice.Request({
             c: 7,
             cn: 'as',
-            process: 'smt.notificacoes.pesquisa_passagem',
+            process: 'notificacoes.pesquisa_passagem',
             params: JSON.stringify({
                 id: paraautorizacao.registros,
                 bloco: paraautorizacao.bloco,
@@ -85,9 +85,17 @@ var Autorizacao = function (paraautorizacao) {
                 return;
             }
 
-            var response = JSON.parse(JSON.parse(http.response)[0].pesquisa_passagem);
+            let response = JSON.parse(JSON.parse(http.response)[0].pesquisa_passagem);
 
-            if (response.autenticacao !== null) {
+            if (response.situacao === false && response.continua === false) {
+
+                dhtmlx.alert({
+                    title: 'Atenção',
+                    type: 'alert-error',
+                    text: response.descricao
+                });
+
+            } else if (response.situacao === true) {
 
                 contador = 0;
                 clearInterval(aguardando);
@@ -110,14 +118,16 @@ var Autorizacao = function (paraautorizacao) {
      */
     this.AguardarConfirmacaoFoto = function () {
 
-        var wfoto = new Foto();
+	console.debug(paraautorizacao);
+
+        let wfoto = new Foto();
         wfoto.Exibir();
         wfoto.AoConfirmarFoto(function (e) {
 
             webservice.Request({
                 c: 7,
                 cn: 'as',
-                process: 'smt.notificacoes.autorizar_foto',
+                process: 'notificacoes.autorizar_foto',
                 params: JSON.stringify({
                     id: paraautorizacao.registros,
                     responsavel: JSON.parse(sessionStorage.auth).user.login,

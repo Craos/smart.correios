@@ -18,10 +18,19 @@ SQL;
 
         $dados = pg_fetch_object(pg_query($sql));
 
-        $this->adicionarendereco($this->multiexplode($dados->proprietario));
-        $this->adicionarendereco($this->multiexplode($dados->usuario_web));
-        $this->adicionarendereco($this->multiexplode($dados->imobiliaria));
-        $this->adicionarendereco($this->multiexplode($dados->para_correspondencia));
+	if (isset($dados->proprietario))
+            $this->adicionarendereco($this->multiexplode($dados->proprietario));
+        
+        if (isset($dados->usuario_web))
+            $this->adicionarendereco($this->multiexplode($dados->usuario_web));
+            
+        if (isset($dados->imobiliaria))
+            $this->adicionarendereco($this->multiexplode($dados->imobiliaria));
+            
+        if (isset($dados->para_correspondencia))
+            $this->adicionarendereco($this->multiexplode($dados->para_correspondencia));
+            
+            
         $this->lista = array_unique($this->itens);
 
     }
